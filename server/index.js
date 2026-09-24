@@ -1322,8 +1322,24 @@ app.all('/api/*', (req, res) => {
 const CLIENT_DIST = path.join(__dirname, '..', 'client', 'dist');
 if (fs.existsSync(CLIENT_DIST)) {
   app.use(express.static(CLIENT_DIST));
-  app.get('*', (req, res) => {
+  app.get('*', (req, res, next) => {
+    if (req.path.startsWith('/api')) return next();
     res.sendFile(path.join(CLIENT_DIST, 'index.html'));
+  });
+} else {
+  console.warn('⚠️ Warning: CLIENT_DIST not found at', CLIENT_DIST);
+  app.get('*', (req, res, next) => {
+    if (req.path.startsWith('/api')) return next();
+    res.status(200).send(`
+      <!DOCTYPE html>
+      <html>
+        <head><title>CA-Bot Backend Online</title><style>body{font-family:sans-serif;background:#0f172a;color:#f8fafc;padding:40px;text-align:center;}</style></head>
+        <body>
+          <h1>🚀 CA-Bot Server is Online!</h1>
+          <p>The client build is currently loading or was not found at ${CLIENT_DIST}.</p>
+        </body>
+      </html>
+    `);
   });
 }
 
