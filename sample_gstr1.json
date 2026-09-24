@@ -1,0 +1,160 @@
+{
+  "gstin": "27AABCU9603R1ZM",
+  "fp": "072024",
+  "b2b": [
+    {
+      "ctin": "27AABCM6208R1Z1",
+      "tradeName": "Mahindra ReadyMix Concrete",
+      "inv": [
+        {
+          "inum": "INV-2024-001",
+          "dt": "10-05-2024",
+          "val": 118000,
+          "pos": "27",
+          "rev": "N",
+          "items": [
+            {
+              "num": 1,
+              "txval": 100000,
+              "igst": 0,
+              "cgst": 9000,
+              "sgst": 9000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "27AAACT2727Q1ZW",
+      "tradeName": "Tata Motors Fleet Operations",
+      "inv": [
+        {
+          "inum": "INV-2024-002",
+          "dt": "15-05-2024",
+          "val": 177000,
+          "pos": "27",
+          "rev": "N",
+          "items": [
+            {
+              "num": 1,
+              "txval": 150000,
+              "igst": 0,
+              "cgst": 13500,
+              "sgst": 13500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "29ABCDE1234F1ZW",
+      "tradeName": "Infosys Technologies Ltd",
+      "inv": [
+        {
+          "inum": "INV/2024/003",
+          "dt": "22-05-2024",
+          "val": 94399.5,
+          "pos": "29",
+          "rev": "N",
+          "items": [
+            {
+              "num": 1,
+              "txval": 79999.5,
+              "igst": 14400,
+              "cgst": 0,
+              "sgst": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "27AAACL1967K1ZU",
+      "tradeName": "Larsen & Toubro Heavy Engg",
+      "inv": [
+        {
+          "inum": "INV-2024-004",
+          "dt": "02-06-2024",
+          "val": 354000,
+          "pos": "27",
+          "rev": "N",
+          "items": [
+            {
+              "num": 1,
+              "txval": 300000,
+              "igst": 0,
+              "cgst": 27000,
+              "sgst": 27000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "27AAACR4849R1ZZ",
+      "tradeName": "Reliance Infrastructure Services",
+      "inv": [
+        {
+          "inum": "INV-2024-005",
+          "dt": "18-06-2024",
+          "val": 100800,
+          "pos": "27",
+          "rev": "N",
+          "items": [
+            {
+              "num": 1,
+              "txval": 90000,
+              "igst": 0,
+              "cgst": 5400,
+              "sgst": 5400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "24AAACG1234F1Z5",
+      "tradeName": "Gujarat State Power Distribution",
+      "inv": [
+        {
+          "inum": "INV-2024-006",
+          "dt": "28-06-2024",
+          "val": 236000,
+          "pos": "24",
+          "rev": "N",
+          "items": [
+            {
+              "num": 1,
+              "txval": 200000,
+              "igst": 36000,
+              "cgst": 0,
+              "sgst": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "27AAACK1111A1Z9",
+      "tradeName": "Kalyani Steels Ltd",
+      "inv": [
+        {
+          "inum": "INV-2024-999",
+          "dt": "12-06-2024",
+          "val": 141600,
+          "pos": "27",
+          "rev": "N",
+          "items": [
+            {
+              "num": 1,
+              "txval": 120000,
+              "igst": 0,
+              "cgst": 10800,
+              "sgst": 10800
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

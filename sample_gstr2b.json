@@ -1,0 +1,181 @@
+{
+  "gstin": "27AABCU9603R1ZM",
+  "fp": "072024",
+  "b2b": [
+    {
+      "ctin": "27AAPFU0939F1ZV",
+      "trdnm": "Tata Consultancy Services Ltd",
+      "inv": [
+        {
+          "inum": "INV-2024-25-42",
+          "idt": "15-05-2024",
+          "val": 118000,
+          "pos": "27",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "dtm": "11-06-2024",
+          "itcavl": "Y",
+          "items": [
+            {
+              "num": 1,
+              "txval": 100000,
+              "igst": 18000,
+              "cgst": 0,
+              "sgst": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "29ABCDE1234F1ZW",
+      "trdnm": "Infosys Limited",
+      "inv": [
+        {
+          "inum": "INF-9901",
+          "idt": "10-06-2024",
+          "val": 58999.5,
+          "pos": "29",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "dtm": "11-07-2024",
+          "itcavl": "Y",
+          "items": [
+            {
+              "num": 1,
+              "txval": 49999.5,
+              "igst": 0,
+              "cgst": 4500,
+              "sgst": 4500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "27AAACL1967K1ZU",
+      "trdnm": "Larsen & Toubro Ltd",
+      "inv": [
+        {
+          "inum": "LT/EPC/8821",
+          "idt": "02-07-2024",
+          "val": 295000,
+          "pos": "27",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "dtm": "10-08-2024",
+          "itcavl": "Y",
+          "items": [
+            {
+              "num": 1,
+              "txval": 250000,
+              "igst": 45000,
+              "cgst": 0,
+              "sgst": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "27AAACD7999E1ZY",
+      "trdnm": "Mercedes-Benz India Pvt Ltd",
+      "inv": [
+        {
+          "inum": "MB-CAR-402",
+          "idt": "12-04-2024",
+          "val": 5120000,
+          "pos": "27",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "dtm": "11-05-2024",
+          "itcavl": "Y",
+          "items": [
+            {
+              "num": 1,
+              "txval": 4000000,
+              "igst": 1120000,
+              "cgst": 0,
+              "sgst": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "27AABCT3333F1ZZ",
+      "trdnm": "Taj Palace Catering Services",
+      "inv": [
+        {
+          "inum": "TAJ/CAT/771",
+          "idt": "22-05-2024",
+          "val": 47200,
+          "pos": "27",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "dtm": "10-06-2024",
+          "itcavl": "Y",
+          "items": [
+            {
+              "num": 1,
+              "txval": 40000,
+              "igst": 0,
+              "cgst": 3600,
+              "sgst": 3600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "27AAACR4849R1ZZ",
+      "trdnm": "Reliance Retail Ltd",
+      "inv": [
+        {
+          "inum": "REL-2024-00109",
+          "idt": "18-07-2024",
+          "val": 84000,
+          "pos": "27",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "dtm": "10-08-2024",
+          "itcavl": "Y",
+          "items": [
+            {
+              "num": 1,
+              "txval": 75000,
+              "igst": 9000,
+              "cgst": 0,
+              "sgst": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ctin": "27AABCA5555M1ZP",
+      "trdnm": "Amazon Web Services India Pvt Ltd",
+      "inv": [
+        {
+          "inum": "AWS-CLOUD-9908",
+          "idt": "28-07-2024",
+          "val": 35400,
+          "pos": "27",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "dtm": "11-08-2024",
+          "itcavl": "Y",
+          "items": [
+            {
+              "num": 1,
+              "txval": 30000,
+              "igst": 5400,
+              "cgst": 0,
+              "sgst": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

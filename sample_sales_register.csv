@@ -1,0 +1,7 @@
+GSTIN of Buyer,Trade Name,Invoice Number,Invoice Date,HSN/SAC,Taxable Value,IGST,CGST,SGST,Total Tax,Total Invoice Value,Description
+"27AABCM6208R1Z1","Mahindra ReadyMix Concrete","INV-2024-001","10/05/2024","6810",100000,0,9000,9000,18000,118000,"ReadyMix Concrete Grade M25"
+"27AAACT2727Q1ZW","Tata Motors Fleet Operations","INV-2024-002","15/05/2024","8708",150000,0,13500,13500,27000,177000,"Auto Spares & Commercial Parts"
+"29ABCDE1234F1ZW","Infosys Technologies Ltd","INV-2024-003","22/05/2024","998313",80000,14400,0,0,14400,94400,"Network Implementation Services"
+"27AAACL1967K1ZU","Larsen & Toubro Heavy Engg","INV-2024-004","02/06/2024","7308",300000,0,27000,27000,54000,354000,"Structural Fabrication Works"
+"27AAACR4849R1ZZ","Reliance Infrastructure Services","INV-2024-005","18/06/2024","8471",90000,0,8100,8100,16200,106200,"Data Terminal Units"
+"24AAACG1234F1Z5","Gujarat State Power Distribution","INV-2024-006","28/06/2024","8504",200000,36000,0,0,36000,236000,"Step-Down Transformers"

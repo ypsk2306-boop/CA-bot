@@ -1,0 +1,8 @@
+GSTIN of Supplier,Trade Name,Invoice Number,Invoice Date,HSN/SAC,Taxable Value,IGST,CGST,SGST,Total Tax,Total Invoice Value,Payment Date,Description
+"27AAPFU0939F1ZV","Tata Consultancy Services Ltd","INV/2024-25/0042","15/05/2024","998313",100000,18000,0,0,18000,118000,"20/06/2024","IT Consulting Services"
+"29ABCDE1234F1ZW","Infosys Limited","INF-9901","10/06/2024","998314",50000,0,4500,4500,9000,59000,"15/07/2024","Software Implementation"
+"27AAACL1967K1ZU","Larsen & Toubro Ltd","LT/EPC/8821","02/07/2024","9954",250000,45000,0,0,45000,295000,"10/08/2024","Plant Maintenance & Works Contract"
+"27AAACR4849R1ZZ","Reliance Retail Ltd","REL-2024-00109","18/07/2024","8471",75000,13500,0,0,13500,88500,"25/08/2024","Office Laptops & Hardware"
+"27AAACD7999E1ZY","Mercedes-Benz India Pvt Ltd","MB-CAR-402","12/04/2024","8703",4000000,1120000,0,0,1120000,5120000,"20/04/2024","Executive Luxury Motor Vehicle"
+"27AABCT3333F1ZZ","Taj Palace Catering Services","TAJ/CAT/771","22/05/2024","9963",40000,0,3600,3600,7200,47200,"05/06/2024","Annual Corporate Dinner & Catering"
+"29AABCS1429B1ZB","Steel Authority Supplies","STEEL/23-24/099","10/01/2024","7208",120000,21600,0,0,21600,141600,"","Structural Steel Beams"
